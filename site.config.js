@@ -6,9 +6,9 @@ const CONFIG = {
     role: "lazy girl",
     bio: "A dreamy INFP.",
     email: "lamngan1250@gmail.com",
-   // linkedin: "morethanmin",
+    linkedin: "",
     github: "kawaiicassie",
-    instagram: "",
+    instagram: "lemme.sie",
   },
   projects: [
     {
