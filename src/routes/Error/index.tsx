@@ -13,7 +13,7 @@ const CustomError: React.FC<Props> = () => {
           <Emoji>💔</Emoji>
           <div>4</div>
         </div>
-        <div className="text">Không tìm thấy bài đăng</div>
+        <div className="text">Không tìm thấy bài đăng.</div>
       </div>
     </StyledWrapper>
   )

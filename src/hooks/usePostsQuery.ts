@@ -9,7 +9,7 @@ const usePostsQuery = () => {
     enabled: false,
   })
 
-  if (!data) throw new Error("Không tìm thấy dữ liệu bài viết")
+  if (!data) throw new Error("Không tìm thấy dữ liệu bài viết!")
 
   return data
 }

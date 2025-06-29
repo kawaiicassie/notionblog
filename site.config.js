@@ -3,24 +3,24 @@ const CONFIG = {
   profile: {
     name: "chewy",
     image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "lazy girl",
-    bio: "A dreamy INFP.",
-    email: "lamngan1250@gmail.com",
+    role: ">///<",
+    bio: "hông biết viết gì ở đây..",
+    email: "mailto:contact.lamn@icloud.com",
     linkedin: "",
     github: "kawaiicassie",
-    instagram: "lemme.sie",
+    instagram: "",
   },
   projects: [
     {
-      name: `kawaiicassie`,
-      href: "https://kawaiicassie.github.io/",
+      name: `flowers misskey`,
+      href: "https://misskey.flowers/@ngc2237",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "want to know xix",
-    description: "welcome to my heart.",
-    scheme: "light", // 'light' | 'dark' | 'system'
+    title: "wtkxix's blog",
+    description: "a little pufferfish swims ceaselessly in the ocean.",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
