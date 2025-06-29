@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `flowers misskey`,
+      name: `はなみすきー`,
       href: "https://misskey.flowers/@ngc2237",
     },
   ],
